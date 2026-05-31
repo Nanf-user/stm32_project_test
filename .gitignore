@@ -1,0 +1,33 @@
+# Keil uVision build output
+OBJ/
+*.o
+*.d
+*.axf
+*.htm
+*.lnk
+*.dep
+*.bak
+*.lst
+*.i
+*.crf
+*.map
+*.htm
+
+# Keil user settings
+*.uvoptx
+*.uvguix.*
+
+# Debug
+*.dbgconf
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Claude
+.claude/
+
+# Misc
+*.pyc
+__pycache__/
